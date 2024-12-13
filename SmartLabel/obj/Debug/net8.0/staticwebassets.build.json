@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "k5yedIZ2EJejiZUrPG/PGSSrS2D6bZ2Pa9/rA/V7u1E=",
+  "Source": "SmartLabel",
+  "BasePath": "_content/SmartLabel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SmartLabel\\wwwroot",
+      "Source": "SmartLabel",
+      "ContentRoot": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\wwwroot\\",
+      "BasePath": "_content/SmartLabel",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\wwwroot\\images\\Annotation 2024-12-11 232016.png",
+      "SourceId": "SmartLabel",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\wwwroot\\",
+      "BasePath": "_content/SmartLabel",
+      "RelativePath": "images/Annotation 2024-12-11 232016#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b5kkyvbki8",
+      "Integrity": "AW/r+Exgumy9mzjp5KZO8I8ffVBhzOKwSUEWszVifd4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Annotation 2024-12-11 232016.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/Annotation 2024-12-11 232016.b5kkyvbki8.png",
+      "AssetFile": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\wwwroot\\images\\Annotation 2024-12-11 232016.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AW/r+Exgumy9mzjp5KZO8I8ffVBhzOKwSUEWszVifd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 21:55:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b5kkyvbki8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Annotation 2024-12-11 232016.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AW/r+Exgumy9mzjp5KZO8I8ffVBhzOKwSUEWszVifd4="
+        }
+      ]
+    },
+    {
+      "Route": "images/Annotation 2024-12-11 232016.png",
+      "AssetFile": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\wwwroot\\images\\Annotation 2024-12-11 232016.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AW/r+Exgumy9mzjp5KZO8I8ffVBhzOKwSUEWszVifd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 21:55:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AW/r+Exgumy9mzjp5KZO8I8ffVBhzOKwSUEWszVifd4="
+        }
+      ]
+    }
+  ]
+}

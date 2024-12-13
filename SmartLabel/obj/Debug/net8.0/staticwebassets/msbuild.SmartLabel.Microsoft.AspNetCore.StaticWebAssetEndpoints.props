@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/SmartLabel/images/Annotation 2024-12-11 232016.b5kkyvbki8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Annotation 2024-12-11 232016.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b5kkyvbki8"},{"Name":"integrity","Value":"sha256-AW/r\u002BExgumy9mzjp5KZO8I8ffVBhzOKwSUEWszVifd4="},{"Name":"label","Value":"_content/SmartLabel/images/Annotation 2024-12-11 232016.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23598"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022AW/r\u002BExgumy9mzjp5KZO8I8ffVBhzOKwSUEWszVifd4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 21:55:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SmartLabel/images/Annotation 2024-12-11 232016.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\Annotation 2024-12-11 232016.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AW/r\u002BExgumy9mzjp5KZO8I8ffVBhzOKwSUEWszVifd4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"23598"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022AW/r\u002BExgumy9mzjp5KZO8I8ffVBhzOKwSUEWszVifd4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 11 Dec 2024 21:55:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

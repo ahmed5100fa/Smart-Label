@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|c:\\users\\raf.khalifa\\source\\repos\\smartlabel\\smartlabel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|solutionrelative:smartlabel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|c:\\users\\raf.khalifa\\source\\repos\\smartlabel\\smartlabel\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|solutionrelative:smartlabel\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|c:\\users\\raf.khalifa\\source\\repos\\smartlabel\\smartlabel\\labeldata\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|solutionrelative:smartlabel\\labeldata\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|c:\\users\\raf.khalifa\\source\\repos\\smartlabel\\smartlabel\\migrations\\20241211211432_add-category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|solutionrelative:smartlabel\\migrations\\20241211211432_add-category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|c:\\users\\raf.khalifa\\source\\repos\\smartlabel\\smartlabel\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|solutionrelative:smartlabel\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|c:\\users\\raf.khalifa\\source\\repos\\smartlabel\\smartlabel\\labeldata\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|solutionrelative:smartlabel\\labeldata\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|c:\\users\\raf.khalifa\\source\\repos\\smartlabel\\smartlabel\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|solutionrelative:smartlabel\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|c:\\users\\raf.khalifa\\source\\repos\\smartlabel\\smartlabel\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|solutionrelative:smartlabel\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|c:\\users\\raf.khalifa\\source\\repos\\smartlabel\\smartlabel\\extensions\\jwtauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|solutionrelative:smartlabel\\extensions\\jwtauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|c:\\users\\raf.khalifa\\source\\repos\\smartlabel\\smartlabel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|solutionrelative:smartlabel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|c:\\users\\raf.khalifa\\source\\repos\\smartlabel\\smartlabel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|solutionrelative:smartlabel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|c:\\users\\raf.khalifa\\source\\repos\\smartlabel\\smartlabel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|solutionrelative:smartlabel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|c:\\users\\raf.khalifa\\source\\repos\\smartlabel\\smartlabel\\smartlabel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A400814-2FE8-4E49-8CC5-29F878A198AA}|SmartLabel\\SmartLabel.csproj|solutionrelative:smartlabel\\smartlabel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "SmartLabel\\models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\models\\ProductModel.cs",
+              "RelativeToolTip": "SmartLabel\\models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:17:55.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\labelData\\product.cs",
+              "RelativeDocumentMoniker": "SmartLabel\\labelData\\product.cs",
+              "ToolTip": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\labelData\\product.cs",
+              "RelativeToolTip": "SmartLabel\\labelData\\product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:05:30.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241211211432_add-category.cs",
+              "DocumentMoniker": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\Migrations\\20241211211432_add-category.cs",
+              "RelativeDocumentMoniker": "SmartLabel\\Migrations\\20241211211432_add-category.cs",
+              "ToolTip": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\Migrations\\20241211211432_add-category.cs",
+              "RelativeToolTip": "SmartLabel\\Migrations\\20241211211432_add-category.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:14:33.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SmartLabel\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SmartLabel\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAiwJQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:08:08.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\labelData\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SmartLabel\\labelData\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\labelData\\AppDbContext.cs",
+              "RelativeToolTip": "SmartLabel\\labelData\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:12:54.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "SmartLabel\\models\\CategoryModel.cs",
+              "ToolTip": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\models\\CategoryModel.cs",
+              "RelativeToolTip": "SmartLabel\\models\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:48:50.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "jwtAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\extensions\\jwtAuthentication.cs",
+              "RelativeDocumentMoniker": "SmartLabel\\extensions\\jwtAuthentication.cs",
+              "ToolTip": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\extensions\\jwtAuthentication.cs",
+              "RelativeToolTip": "SmartLabel\\extensions\\jwtAuthentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:34:13.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartLabel\\appsettings.json",
+              "ToolTip": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\appsettings.json",
+              "RelativeToolTip": "SmartLabel\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T21:30:02.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "SmartLabel\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SmartLabel\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:15:46.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\Program.cs",
+              "RelativeDocumentMoniker": "SmartLabel\\Program.cs",
+              "ToolTip": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\Program.cs",
+              "RelativeToolTip": "SmartLabel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:34:06.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SmartLabel",
+              "DocumentMoniker": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\SmartLabel.csproj",
+              "RelativeDocumentMoniker": "SmartLabel\\SmartLabel.csproj",
+              "ToolTip": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\SmartLabel.csproj",
+              "RelativeToolTip": "SmartLabel\\SmartLabel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T21:21:51.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "account.cs",
+              "DocumentMoniker": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\Controllers\\account.cs",
+              "RelativeDocumentMoniker": "SmartLabel\\Controllers\\account.cs",
+              "ToolTip": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\Controllers\\account.cs",
+              "RelativeToolTip": "SmartLabel\\Controllers\\account.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwFYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:42:10.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SmartLabel\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\raf.khalifa\\source\\repos\\SmartLabel\\SmartLabel\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SmartLabel\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T21:22:00.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
